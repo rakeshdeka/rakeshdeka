@@ -21,8 +21,8 @@ I'm a passionate frontend developer with a keen interest in creating dynamic and
 - It’s a web app that facilitates communication between users, enabling them to exchange information, share ideas,
 and collaborate effectively.
 - The application allows users to send and receive messages in real-time.
-– Users can create groups to talk to their close friends.
-– It includes user authentication and authorization features to ensure that only authorized users can access.
+- Users can create groups to talk to their close friends.
+- It includes user authentication and authorization features to ensure that only authorized users can access.
 
 
 [Chat Apllication](https://github.com/rakeshdeka/mern-chat-app)

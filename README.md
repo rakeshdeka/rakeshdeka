@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm Your Name 🌈
+# Hi there! 👋 I'm Rakesh Deka :bust_in_silhouette:
 
 I'm a passionate frontend developer with a keen interest in creating dynamic and user-friendly web applications. Welcome to my GitHub profile! 🚀
 
 ## 💻 Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React.js, Vue.js
+- **Frameworks/Libraries:** React.js,TailwindCSS
 - **Tools:** Git, Webpack
-- **Design:** Figma, Adobe XD
+- **Design:** Figma
 
 ## 🛠️ Projects
 
@@ -31,27 +31,11 @@ I'm currently focusing on improving my skills in:
 - UI/UX design principles
 - Progressive Web Apps (PWAs)
 
-## 🔨 Projects I'm Working On
-
-### ✨ Project 2  - In Progress
-
-Brief description and link to the project.
-
-[![Project 4](images/project4-thumbnail.jpg)](project4-link)
-
-## 🌟 Completed Projects
-
-### 🎉 Project 1 - Completed
-
-Brief description and link to the project.
-
-[![Project 5](images/project5-thumbnail.jpg)](project5-link)
-
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-username/) 🌐
 - [Twitter](https://twitter.com/your-username/) 🐦
+- [Blogs]() :memo:
 - [Frontend Mentor](https://www.frontendmentor.io/profile/your-frontend-mentor-username) ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Profile-brightgreen) 🚀
 - [CodePen](https://codepen.io/your-codepen-username) ![CodePen](https://img.shields.io/badge/CodePen-Profile-lightgrey) 🖌️
 

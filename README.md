@@ -29,7 +29,10 @@ I'm a passionate frontend developer with a keen interest in creating dynamic and
 
 <a href="https://www.linkedin.com/in/irakeshdeka/" title="irakeshdeka" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/irakeshdeka/" target="_blank" title="irakeshdeka" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://rakeshdeka.hashnode.dev/" target="_blank" title="Blogs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="blog" width="30" height="30"/></a>
+<a href="https://rakeshdeka.hashnode.dev/" target="_blank" title="Blogs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="blog" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
-Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
+
+Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊&nbsp;&nbsp;
+
+[![](https://visitcount.itsvg.in/api?id=irakeshdeka&label=&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)

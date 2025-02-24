@@ -12,6 +12,8 @@ I'm a passionate frontend developer with a keen interest in creating dynamic and
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TailwindCSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Vercel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="PHP" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Laravel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 ### I have also worked with ...
@@ -24,6 +26,7 @@ I'm a passionate frontend developer with a keen interest in creating dynamic and
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+
 
 ### You can also find me on ...
 

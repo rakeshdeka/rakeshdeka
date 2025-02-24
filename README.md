@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Rakesh :bust_in_silhouette:
 
-I'm a passionate frontend developer with a keen interest in creating dynamic and user-friendly web applications. Welcome to my GitHub profile! 🚀
+I'm a passionate full-stack developer with a keen interest in building dynamic, scalable, and user-friendly web applications. Welcome to my GitHub profile! 🚀
 
 ### Currently I am working with ...
 
